@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'rick_trolling'
+puts index.html
